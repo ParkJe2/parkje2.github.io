@@ -153,8 +153,3 @@ let 키워드로 선언한 경우, 런타임 이전에 선언이 되어 자바�
 
 ※ 기본적으로 변수의 스코프는 최대한 좁게 만드는 것을 권장한다.<br>
 따라서, var 키워드 보다는 let과 const 키워드를 사용하며, 변경하지 않는 값(상수)이라면 let 보다는 const 키워드를 사용하는 것이 안전하다.
-
-p.s <br>
-
-- 팀 프로젝트 깃헙 주소 : https://github.com/jei1211/team_IntroductionPage <br>
-- 팀 프로젝트 배포 링크 : http://myweb.eba-d9hrkem7.ap-northeast-2.elasticbeanstalk.com/

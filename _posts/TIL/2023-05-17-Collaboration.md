@@ -89,8 +89,3 @@ git push origin 새브랜치명
 오늘은 체력적으로 힘들었다기보다.....<br>
 그냥 진이 다 빠졌다..ㅎ<br>
 TIL은 대체 언제부터 제대로 쓸 수 있을까..?
-
-p.s <br>
-
-- 팀 프로젝트 깃헙 주소 : https://github.com/jei1211/team_IntroductionPage <br>
-- 팀 프로젝트 배포 링크 : http://myweb.eba-d9hrkem7.ap-northeast-2.elasticbeanstalk.com/
