@@ -97,9 +97,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: parkje2/parkje2.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOJkanMQ
+    repo_id: R_kgDOJwreXA
     category: General
-    category_id: DIC_kwDOJkanMc4CW4fk
+    category_id: DIC_kwDOJwreXM4CXSJU
     mapping: pathname # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
