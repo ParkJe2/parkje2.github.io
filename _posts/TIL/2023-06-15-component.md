@@ -1,7 +1,7 @@
 ---
 title: component
 categories: [TIL, React]
-tags: [component] # TAG names should always be lowercase
+tags: [React, component] # TAG names should always be lowercase
 ---
 
 ## 내일배움캠프 LGLG!
