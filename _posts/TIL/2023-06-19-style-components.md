@@ -1,14 +1,14 @@
 ---
-title: component
+title: styled-components
 categories: [TIL, CSS, React]
-tags: [React, CSS, style component] # TAG names should always be lowercase
+tags: [React, CSS, style-component] # TAG names should always be lowercase
 ---
 
 ## 내일배움캠프 LGLG!
 
 ### 5주차(주특기 숙련 - React)
 
-#### **Styled Components**
+#### **Styled-Components**
 
 - CSS-in-JS 라이브러리 중에 가장 널리 사용되고 있는 라이브러리
 
