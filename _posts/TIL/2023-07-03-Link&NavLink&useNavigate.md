@@ -20,7 +20,8 @@ $ npm install react-router-dom@6
 ```
 
 ### **Link**
-```jsimport { Link } from "react-router-dom";
+```js
+import { Link } from "react-router-dom";
 <Link to="경로">내용</Link>
 ```
 
