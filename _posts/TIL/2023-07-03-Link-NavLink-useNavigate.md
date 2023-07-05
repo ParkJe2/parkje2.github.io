@@ -24,10 +24,6 @@ $ npm install react-router-dom@6
 import { Link } from "react-router-dom";
 <Link to="경로">내용</Link>
 ```
-react-router-dom 에서 제공하는 컴포넌트는 html의 \<a> 태그와 기능이 유사하지만, 페이지 전환을 방지하는 기능이 내장되어 있다. 
-
-요소 클릭 시 <도메인 경로> / <지정한경로> 로 바로 이동하는 로직 구현 시에 용이한 컴포넌트이다. 
-
 ```jsx
 import { Routes, Route, Link } from "react-router-dom";
 import Home from './Home';
@@ -50,6 +46,10 @@ function App() {
 
 export default App;
 ```
+
+react-router-dom 에서 제공하는 컴포넌트는 html의 \<a> 태그와 기능이 유사하지만, 페이지 전환을 방지하는 기능이 내장되어 있다. 
+
+요소 클릭 시 <도메인 경로> / <지정한경로> 로 바로 이동하는 로직 구현 시에 용이한 컴포넌트이다. 
 
 ### **NavLink**
 
