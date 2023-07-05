@@ -11,7 +11,7 @@ tags: [React, Link, NavLink, useNavigate] # TAG names should always be lowercase
 ### **리액트 라우터 설치**
 
 Link와 useNavigate()를 사용하기 위해선 우선, 리액트 라우터를 설치해야 한다.
-```js
+```bash
 // for yarn
 $ yarn add react-router-dom@6
 
@@ -20,7 +20,7 @@ $ npm install react-router-dom@6
 ```
 
 ### **Link**
-```js
+```jsx
 import { Link } from "react-router-dom";
 <Link to="경로">내용</Link>
 ```
@@ -29,8 +29,8 @@ react-router-dom 에서 제공하는 컴포넌트는 html의 \<a> 태그와 기�
 
 요소 클릭 시 <도메인 경로>/<지정한경로> 로 바로 이동하는 로직 구현 시에 용이한 컴포넌트이다. 
 
-```js
- import { Routes, Route, Link } from "react-router-dom";
+```jsx
+import { Routes, Route, Link } from "react-router-dom";
 import Home from './Home';
 import Login from './Login';
 
@@ -54,7 +54,7 @@ export default App;
 
 ### **NavLink**
 
-```js
+```jsx
 import { NavLink } from "react-router-dom";
 
 // style 속성으로 스타일 적용할 때
@@ -84,7 +84,7 @@ NavLink는 자체적으로 isActive라는 boolean값을 가지고 있어 선언�
 
 활성화(클릭) 시 해당 요소의 클래스는 "active"로 변경된다.
 
-```js
+```jsx
 // src/App.css
 .orange {
   color: orange;
@@ -136,7 +136,7 @@ export default App;
 ```
 
 ### **useNavigate**
-```js
+```jsx
 import { useNavigate } from "react-router-dom";
 
 const navigate = useNavigate();
@@ -149,7 +149,7 @@ useNavigate 훅을 실행하면 페이지 이동을 할 수 있게 해주는 함
 
 Link와 다른 점은 함수 호출을 통해 페이지를 이동하기 때문에 특정 조건을 충족할 경우에 페이지 이동을 하도록 할 수 있다. 
 
-```js
+```jsx
 import { Routes, Route, useNavigate } from "react-router-dom";
 import Home from './Home';
 import Login from './Login';
