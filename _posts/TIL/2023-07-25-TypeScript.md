@@ -8,7 +8,7 @@ tags: [TypeScript] # TAG names should always be lowercase
 
 ## 주특기 플러스 주차 - TypeScript
 
-### ⁉️`Typrscript`
+### `Typrscript란,`
 - JavaScript에 타입을 부여한 언어
 - JavaScript의 확장된 언어 (자바스크립트의 단점은 줄이고 더 좋은 기능을 감싼 형태)
 - ES5의 상위확장 이므로 기존의 자바스크립트(ES5) 문법을 그대로 사용할 수 있고,<br>
