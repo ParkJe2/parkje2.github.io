@@ -72,7 +72,7 @@ sum('10', '20');
 ### tsc
 `tsc = TypeScript 컴파일러`
 
-#### tsconfig.json
+#### [tsconfig.json]
 - `tsc --init` 명령을 실행하면 생성되는 파일
 - TypeScript 프로젝트의 설정 파일
 - 주로 프로젝트의 컴파일 옵션 및 입력 파일들을 정의하는데 사용
