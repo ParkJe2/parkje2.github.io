@@ -92,11 +92,11 @@ sum('10', '20');
 #### include , exclude 옵션
 - tsc가 컴파일을 할 때 포함하거나 제외할 파일이나 디렉터리를 지정하는 옵션
 ```
-“include": ["src/**/*"]  
+“include": "src/**/*"
 ```
 - src디렉토리 밑의 데이터를 컴파일 하겠다.
 ```
-"exclude": ["node_modules", "dist"]
+"exclude": "node_modules", "dist"
 ```
 - node_modules, dist 디렉토리 밑의 데이터들은 컴파일 대상에서 제외 하겠다.
 
