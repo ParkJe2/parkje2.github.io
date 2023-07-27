@@ -1,11 +1,31 @@
 ---
-title: TypeScript(2)
+title: Refactoring
 categories: [TIL, TypeScript]
-tags: [TypeScript] # TAG names should always be lowercase
+tags: [TypeScript, Refactoring] # TAG names should always be lowercase
 ---
 
 # 내일배움캠프 LGLG!
 
 ## 주특기 플러스 주차 - TypeScript
 
-### TypeScript 고급 타입 활용하기
+### 리팩토링(Refactoring)
+- 기 작성 코드에서 구현된 일련의 행위들을 변경없이, 코드의 가독성과 유지보수성을 높이기 위해 내부 구조를 변경하는 것
+- 기능은 유지하되 읽기 좋고 지속적으로 관리하기 편하게 소스 코드를 재작성 하는 것
+- 성능 최적화XXX
+
+#### 리팩토링을 하는 이유
+- 불필요한 코드 & 중복 코드 삭제, 수정 용이성 향상
+- 코드 이해도를 높이기 위해
+- 버그를 찾는데 도움이 됨
+- 개발 속도가 향상됨
+
+#### 리팩토링은 언제?
+- 유사한 내용이 세번 이상 반복할 때 고려
+- 새로운 기능을 추가할 때
+- 코드 리뷰를 하기 전
+
+리액트 주차 때도 리팩토링을 해야지.. 해놓고 계속 미뤄왔는데<br>
+타입스크립트 주차로 넘어와 리액트를 활용해서 만든 프로젝트를 타입스크립트로 고치는 리팩토링을 하고 있다!<br>
+
+아직 시작 단계이기 때문에,
+후에 더 자세한 내용을.....👋🏻
