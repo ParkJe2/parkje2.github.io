@@ -1,7 +1,7 @@
 ---
 title: TypeScript(1)
 categories: [TIL, TypeScript]
-tags: [TypeScript] # TAG names should always be lowercase
+tags: [TypeScript, tsconfig.json, compilerOptions, include , exclude, .d.ts, tuple, enum, readonly, any, unknown, union] # TAG names should always be lowercase
 ---
 
 # 내일배움캠프 LGLG!

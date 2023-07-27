@@ -1,7 +1,7 @@
 ---
 title: TypeScript(2)
 categories: [TIL, TypeScript]
-tags: [TypeScript] # TAG names should always be lowercase
+tags: [TypeScript, Partial, Required, Readonly, Pick, Omit, 클래스, 객체, constructor, 접근 제한자, 상속, 서브타입, 슈퍼타입, upcasting, downcasting, 추상 클래스, 인터페이스, SRP, OCP, ISP, DIP] # TAG names should always be lowercase
 ---
 
 # 내일배움캠프 LGLG!
