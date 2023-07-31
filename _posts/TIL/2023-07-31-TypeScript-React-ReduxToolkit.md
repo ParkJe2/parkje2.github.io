@@ -10,6 +10,7 @@ tags: [TypeScript, React, Redux, ReduxToolkit, Redux Hook, dispatch, useSeletor]
 
 ### store 설정
 - state와 dispatch type을 가져온다.
+
 ```ts
 import { configureStore } from "@reduxjs/toolkit";
 import commentSlice from "./commentSlice";
