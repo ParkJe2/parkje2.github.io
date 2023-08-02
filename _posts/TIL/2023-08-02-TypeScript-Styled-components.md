@@ -1,7 +1,7 @@
 ---
-title: TypeScript-React에서 ReduxToolkit 사용해보기
+title: TypeScript-React에 styled-components 적용하기
 categories: [TIL, TypeScript]
-tags: [TypeScript, React, Redux, ReduxToolkit, Redux Hook, dispatch, useSeletor] # TAG names should always be lowercase
+tags: [TypeScript, styled-components] # TAG names should always be lowercase
 ---
 
 # 내일배움캠프 LGLG!
