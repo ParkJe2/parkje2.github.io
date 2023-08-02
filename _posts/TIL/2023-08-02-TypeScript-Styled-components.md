@@ -41,6 +41,7 @@ const App = () => (
 
 ### 스타일 작성하기
 - props를 styled-component에 넘겨줄 때 타입을 지정하지 않으면 오류가 난다.
+
 ```ts
 //text.ts
 <Text done={done}>{text}</Text>
@@ -71,6 +72,7 @@ export const Text = styled.div<{ done: boolean }>`
 ```
 
 - 단일 props 사용 시
+
 ```ts
 const Container = styled.div< { age : number } >`
   color: ${(props) => (props.age > 20 ? 'red' : 'gray')};
@@ -78,6 +80,7 @@ const Container = styled.div< { age : number } >`
 ```
 
 - 다수 props 사용시 : interface 작성
+
 ```ts
 // Container styled-components에 적용할 interfacer를 작성
 interface Container extends 상속타입 {
@@ -93,6 +96,7 @@ const Container = styled.div<Container>`
 ```
 
 - 상속 컴포넌트에 타입지정
+
 ```ts
 // 상속컴포넌트의 타입 상속받기
 interface Container {
