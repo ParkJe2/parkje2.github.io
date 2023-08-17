@@ -1,6 +1,6 @@
 ---
 title: Final Project
-categories: [TIL, React]
+categories: [TIL, TypeScript]
 tags: [TypeScript, React-Query, Supabase, Zustand] # TAG names should always be lowercase
 ---
 
