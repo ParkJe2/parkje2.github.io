@@ -11,7 +11,7 @@ tags: [react-paginate, pagination] # TAG names should always be lowercase
 ### paginate 사용하기
 
 1. react-paginate 설치하기
-```
+```jsx
 yarn add react-paginate
 ```
 
