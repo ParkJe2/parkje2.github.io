@@ -57,3 +57,12 @@ const { data, error } = await supabase.auth.updateUser({
   data: { hello: 'world' }
 })
 ```
+
+#### 세션 데이터 설정
+- 세션 새로고침
+```jsx
+  const { data, error } = supabase.auth.setSession({
+    access_token,
+    refresh_token
+  })
+```
