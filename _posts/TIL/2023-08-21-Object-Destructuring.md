@@ -1,7 +1,7 @@
 ---
-title: Supabase Session
-categories: [TIL, TypeScript]
-tags: [TypeScript, Supabase, Session] # TAG names should always be lowercase
+title: 객체 구조 분해(Object Destructuring)
+categories: [TIL, JavaScript]
+tags: [JavaScript, Object, Object Destructuring] # TAG names should always be lowercase
 ---
 
 # 내일배움캠프 LGLG!
