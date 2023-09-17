@@ -1,7 +1,7 @@
 ---
 title: supabase maybeSingle
 categories: [TIL, JavaScript]
-tags: [JavaScript, typescript, supabase] # TAG names should always be lowercase
+tags: [JavaScript, TypeScript, supabase] # TAG names should always be lowercase
 ---
 
 # 내일배움캠프 LGLG!
